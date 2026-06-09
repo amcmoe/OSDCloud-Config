@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
-  "configVersion": "2026.06.09.1",
+  "configVersion": 18,
+  "lastUpdated": "6.9.26",
   "windows": {
     "cloudImage": {
       "osName": "Windows 11 25H2 x64",
