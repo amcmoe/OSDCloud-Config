@@ -130,11 +130,7 @@
   },
   "autopilot": {
     "tenantId": "283a1579-e615-4d1f-962a-e4e5097192a4",
-    "applicationId": "80b60b46-3911-4403-9c02-b946c6dbdfd5",
-    "secretUrls": [
-      "http://172.18.11.90/osd/secret.txt",
-      "http://172.18.50.56/osd/secret.txt"
-    ]
+    "applicationId": "80b60b46-3911-4403-9c02-b946c6dbdfd5"
   },
   "consumerApps": {
     "remove": [
