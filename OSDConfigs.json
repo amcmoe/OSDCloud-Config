@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "configVersion":  26,
+    "configVersion":  27,
     "lastUpdated":  "7.9.26",
     "windows":  {
                     "cloudImage":  {
@@ -71,13 +71,13 @@
                                        },
                                        {
                                            "model":  "PRECISION TOWER 3650",
-                                           "edition":  "Education",
-                                           "license":  "Volume"
+                                           "edition":  "Pro",
+                                           "license":  "Retail"
                                        },
                                        {
                                            "model":  "PRECISION 3650 TOWER",
-                                           "edition":  "Education",
-                                           "license":  "Volume"
+                                           "edition":  "Pro",
+                                           "license":  "Retail"
                                        },
                                        {
                                            "model":  "OPTIPLEX 3080",
