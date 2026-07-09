@@ -1,6 +1,6 @@
 {
     "schemaVersion":  1,
-    "configVersion":  27,
+    "configVersion":  28,
     "lastUpdated":  "7.9.26",
     "windows":  {
                     "cloudImage":  {
@@ -178,5 +178,10 @@
                              "allowBitLockerWipePrompt":  true,
                              "requirePhysicalYConfirmation":  true,
                              "blockWhenMultipleInternalDisks":  true
-                         }
+                         },
+    "usbRequirements":  {
+                            "enforceMinimumOSDVersion":  true,
+                            "minimumOSDVersion":  27,
+                            "reason":  "This configuration requires an OSDCloud USB with version-check support and current deployment safeguards."
+                        }
 }
